@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on front-end web development using the MERN Stack.<br>🌱 I’m currently learning "Computer Architecture" and "Parallel Programming" at Oregon State University.<br>💬 Ask me about backend web development and about deep learning.<br>⚡ Fun fact - "I am currently creating ************ (shhhh... It's a secret)"
+🔭 I’m currently working on front-end web development using the MERN Stack.<br>🌱 I’m currently taking "Empirical Security" and "Machine Learning" at Oregon State University.<br>💬 Ask me about backend web development and about deep learning.<br>⚡ Fun fact - "I am currently creating ************ (shhhh... It's a secret)"
 
 
 ## 🌐 Socials:
