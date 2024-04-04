@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on front-end web development using the MERN Stack.<br>🌱 I’m currently taking "Empirical Security" and "Machine Learning" at Oregon State University.<br>💬 Ask me about backend web development and about deep learning.<br>⚡ Fun fact - "I am currently creating ************ (shhhh... It's a secret)"
+🔭 I’m currently working as a full stack software engineer and am using the MERN Stack.<br>🌱 I’m currently taking "Analysis of Algorithms" at Oregon State University.<br>💬 Ask me about full stack web development and about deep learning.<br>⚡ Fun fact - "I am currently creating ************ (shhhh... It's a secret)"
 
 
 ## 🌐 Socials:
@@ -12,9 +12,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=mitanshugada&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitanshugada&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitanshugada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mitanshugada&icon=2&color=2)](https://visitcount.itsvg.in)
