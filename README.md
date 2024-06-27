@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mitanshugada&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitanshugada&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanshugada" alt="mitanshugada" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mitanshugada&theme=monokai&title=Experience,Commits,Followers,PullRequest,Repositories," alt="mitanshugada" /></a> </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mitanshugada&icon=2&color=2)](https://visitcount.itsvg.in)
