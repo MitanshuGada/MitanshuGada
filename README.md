@@ -9,7 +9,12 @@
 
 - 💬 Ask me about **full stack web development and about deep learning.**
 
-- ⚡ Fun fact **"I am currently creating ************ (shhhh... It's a secret)"**
+- ⚡ Fun fact **"I am currently creating ************ (shhhh... It's a secret)"** 
+
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://gitpets.fly.dev/api?username=mitanshugada&petname=Pikachu&theme=dark&species=wolf">
+	<img alt="Shows a gitpet" src="https://gitpets.fly.dev/api?username=cassiusfive&petname=mitanshugada&theme=dark&species=wolf" width="200px">
+</picture>
 
 
 ## 🌐 Socials:
